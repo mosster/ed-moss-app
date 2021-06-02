@@ -22,6 +22,7 @@ export default function App() {
     return (
         <>
             <h1 className="blue">django + graphene + react + apollo client</h1>
+            <p>Hello Ed!</p>
             <p>First, add a superuser in the IDE Shell using: ./manage.py createsuperuser</p>
             <p>Then, log in at <a href="/admin">/admin</a>. Add a friend to the database.</p>
             <p>After you add a friend, refresh this page!</p>
